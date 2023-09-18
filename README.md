@@ -4,10 +4,10 @@ The Center for Computational Psychiatry (CCP), led by Dr. Xiaosi Gu, hosts a mon
 
 Zoom link will be available upon registration.
 
-For more information, please contact Alessandra Yu at Alessandra.yu@icahn.mssm.edu, Amber McLaughlin at Amber.McLaughlin@icahn.mssm.edu, Qixiu Fu at Qixiu.fu@icahn.mssm.edu, or Karina Savillo at Karina.savillo@mssm.edu.
+For more information, please contact [Alessandra Y](Alessandra.yu@icahn.mssm.edu), [Amber McLaughlin](Amber.McLaughlin@icahn.mssm.edu), [Qixiu Fu])Qixiu.fu@icahn.mssm.edu), or [Karina Savillo](Karina.savillo@mssm.edu).
 
-2023 Schedule
-
+**2023 Schedule** 
 | Date       | Invited Speaker | Registration |
 | 2023/09/29 | Tobias Hauser   | [Link](https://forms.gle/S9jTkLc8W4yweuuKA) |
+| 2023/10/20 | TBC             | |
 {: .tablelines}
