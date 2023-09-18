@@ -4,7 +4,7 @@ The Center for Computational Psychiatry (CCP), led by Dr. Xiaosi Gu, hosts a mon
 
 Zoom link will be available upon registration.
 
-For more information, please contact [Alessandra Yu](Alessandra.yu@icahn.mssm.edu), [Amber McLaughlin](Amber.McLaughlin@icahn.mssm.edu), [Qixiu Fu](Qixiu.fu@icahn.mssm.edu), or [Karina Savillo](Karina.savillo@mssm.edu).
+For more information, please get in touch with Alessandra Yu at `alessandra.yu@icahn.mssm.edu`, Amber McLaughlin at `amber.McLaughlin@icahn.mssm.edu`, Qixiu Fu at `qixiu.fu@icahn.mssm.edu`, or Karina Savillo at `karina.savillo@mssm.edu`.
 
 **2023 Schedule** 
 
