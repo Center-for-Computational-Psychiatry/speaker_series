@@ -17,3 +17,5 @@ For more information, please get in touch with Alessandra Yu at `alessandra.yu@i
 
 
 ![image search api](https://www.canva.com/design/DAFxozo44mQ/3uRUItsOShanMBVfAiDGLA/view?utm_content=DA[…]4mQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+![image](image/IanBallard.jpg)
