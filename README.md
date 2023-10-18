@@ -10,7 +10,7 @@ For more information, please get in touch with Alessandra Yu at `alessandra.yu@i
 
 | Date       | Invited Speaker     | Registration |
 | 2023/09/29 | Dr. Tobias Hauser   | [Link](https://forms.gle/456ekX3tS3GSWsEA7) |
-| 2023/10/20 | Dr. Ian Ballard     | [Link](https://forms.gle/9UjAC5VQjK82dNEAA)|
+| 2023/10/20 | Dr. Ian Ballard     | [Link](https://forms.gle/9UjAC5VQjK82dNEAA) | [Items](https://www.canva.com/design/DAFxn-BLGng/FHS9ewd-zvwT8_DP_1aGjw/view?utm_content=DA[…]Gng&utm_campaign=designshare&utm_medium=link&utm_source=editor) |
 | 2023/11/17 | Dr. Ifat Levy       | TBC  |
 |            |                     |      |
 {: .tablelines}
