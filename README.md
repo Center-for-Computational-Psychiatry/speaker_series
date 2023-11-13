@@ -16,4 +16,4 @@ For more information, please get in touch with Alessandra Yu at `alessandra.yu@i
 {: .tablelines}
 
 
-![image](image/IanBallard.jpg)
+![image](image/poster.jpg)
