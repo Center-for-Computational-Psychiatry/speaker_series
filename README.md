@@ -13,6 +13,8 @@ For more information, please get in touch with Alessandra Yu at `alessandra.yu@i
 | 2023/10/20 | Dr. Ian Ballard     | [Link](https://forms.gle/9UjAC5VQjK82dNEAA) |
 | 2023/11/17 | Dr. Ifat Levy       | [Link](https://forms.gle/iikoNNXwHVXmQhMX9) |
 | 2024/01/26 | Dr. Caroline Charpentier |      |
+| 2024/02 |                     |      |
+| 2024/03/08 | Dr. David Redish | (FBI Speaker Series)     |
 {: .tablelines}
 
 <!-- a normal html comment, remove the outside long arrow to display poster -->
