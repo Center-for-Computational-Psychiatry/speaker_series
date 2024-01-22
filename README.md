@@ -18,4 +18,4 @@ For more information, please get in touch with Alessandra Yu at `alessandra.yu@i
 {: .tablelines}
 
 <!-- a normal html comment, remove the outside long arrow to display poster -->
-[image](image/poster.jpg)
+![image](image/poster.jpg)
