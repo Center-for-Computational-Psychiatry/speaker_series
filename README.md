@@ -12,7 +12,7 @@ For more information, please get in touch with Alessandra Yu at `alessandra.yu@i
 | 2023/09/29 | Dr. Tobias Hauser   | [Link](https://forms.gle/456ekX3tS3GSWsEA7) |
 | 2023/10/20 | Dr. Ian Ballard     | [Link](https://forms.gle/9UjAC5VQjK82dNEAA) |
 | 2023/11/17 | Dr. Ifat Levy       | [Link](https://forms.gle/iikoNNXwHVXmQhMX9) |
-| 2024/01/26 | Dr. Caroline Charpentier |      |
+| 2024/01/26 | Dr. Caroline Charpentier | [Link](https://forms.gle/QoQo5oAPwZM4ydZ19 ) |
 | 2024/02 |                     |      |
 | 2024/03/08 | Dr. David Redish | (FBI Speaker Series)     |
 {: .tablelines}
