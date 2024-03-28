@@ -13,7 +13,7 @@ For more information, please get in touch with Alessandra Yu at `alessandra.yu@i
 | 2023/10/20 | Dr. Ian Ballard     | [Link](https://forms.gle/9UjAC5VQjK82dNEAA) |
 | 2023/11/17 | Dr. Ifat Levy       | [Link](https://forms.gle/iikoNNXwHVXmQhMX9) |
 | 2024/01/26 | Dr. Caroline Charpentier | [Link](https://forms.gle/QoQo5oAPwZM4ydZ19 ) |
-| 2024/02/23 | Dr. Casper Hesp     |[Link](https://docs.google.com/forms/d/e/1FAIpQLSfnWEJJhjyA800U-FTM35zJFDRRSP-wrown3bJK73MjpmBCtQ/viewform)|
+| 2024/02/23 | Casper Hesp     |[Link](https://docs.google.com/forms/d/e/1FAIpQLSfnWEJJhjyA800U-FTM35zJFDRRSP-wrown3bJK73MjpmBCtQ/viewform)|
 | 2024/03/08 | Dr. David Redish | (FBI Speaker Series)     |
 | 2024/04/19 | Dr. Jonathan Roiser |  |
 | 2024/05/   |  |  |
