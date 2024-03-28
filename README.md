@@ -15,6 +15,9 @@ For more information, please get in touch with Alessandra Yu at `alessandra.yu@i
 | 2024/01/26 | Dr. Caroline Charpentier | [Link](https://forms.gle/QoQo5oAPwZM4ydZ19 ) |
 | 2024/02/23 | Dr. Casper Hesp     |[Link](https://docs.google.com/forms/d/e/1FAIpQLSfnWEJJhjyA800U-FTM35zJFDRRSP-wrown3bJK73MjpmBCtQ/viewform)|
 | 2024/03/08 | Dr. David Redish | (FBI Speaker Series)     |
+| 2024/04/19 | Dr. Jonathan Roiser |  |
+| 2024/05/   |  |  |
+| 2024/06/28 | Dr. Annie Haynos | |
 {: .tablelines}
 
 <!-- a normal html comment, remove the outside long arrow to display poster -->
