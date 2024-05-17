@@ -16,7 +16,8 @@ For more information, please get in touch with Alessandra Yu at `alessandra.yu@i
 | 2024/02/23 | Casper Hesp     |[Link](https://docs.google.com/forms/d/e/1FAIpQLSfnWEJJhjyA800U-FTM35zJFDRRSP-wrown3bJK73MjpmBCtQ/viewform)|
 | 2024/03/08 | Dr. David Redish | (FBI Speaker Series)     |
 | 2024/04/19 | Dr. Jonathan Roiser | [Link](https://forms.gle/1hfjJTsioABCXNTP8) |
-| 2024/05/   |  |  |
+| 2024/05/21 | Dr. Quentin Huys  | [Link](https://forms.gle/zJmxtkchRir2GLkRA)  |
+| 2024/05/31 | Dr. Lucina Uddin  | [Link](https://forms.gle/zfVBa85fcBLwdP2n9)  |
 | 2024/06/28 | Dr. Annie Haynos | |
 {: .tablelines}
 
