@@ -25,7 +25,7 @@ For more information, please get in touch with Saren Seeley at `saren.seeley@mss
 | 2024/04/19 | Dr. Jonathan Roiser | [Link](https://forms.gle/1hfjJTsioABCXNTP8) |
 | 2024/05/21 | Dr. Quentin Huys  | [Link](https://forms.gle/zJmxtkchRir2GLkRA)  |
 | 2024/05/31 | Dr. Lucina Uddin  | [Link](https://forms.gle/zfVBa85fcBLwdP2n9)  |
-{: .tablelines}
+
 
 <!-- a normal html comment, remove the outside long arrow to display poster -->
 ![image](image/CCP_Flyer_AH_09-2024.png)
