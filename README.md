@@ -8,12 +8,14 @@ For more information, please get in touch with Saren Seeley at `saren.seeley@mss
 
 **2024 Schedule** 
 | Date       | Invited Speaker     | Registration |
+| --- | --- | --- |
 | 2024/09/20 | Dr. Annie Haynos    | [Link]( https://forms.gle/7vieMoJtpsC3GRQw7) |
 
 
 **2023 Schedule** 
 
 | Date       | Invited Speaker     | Registration |
+| --- | --- | --- |
 | 2023/09/29 | Dr. Tobias Hauser   | [Link](https://forms.gle/456ekX3tS3GSWsEA7) |
 | 2023/10/20 | Dr. Ian Ballard     | [Link](https://forms.gle/9UjAC5VQjK82dNEAA) |
 | 2023/11/17 | Dr. Ifat Levy       | [Link](https://forms.gle/iikoNNXwHVXmQhMX9) |
