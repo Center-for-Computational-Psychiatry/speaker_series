@@ -1,10 +1,15 @@
-# Center for Computational Psychiatry Speaker Series 2023-2024
+# Center for Computational Psychiatry Speaker Series 2024-2025
 
 The Center for Computational Psychiatry (CCP), led by Dr. Xiaosi Gu, hosts a monthly afternoon seminar series in which leading researchers from around the world present their latest findings in the fields of computational psychiatry, computational modeling, and cognitive neuroscience research. Discussion topics include transdiagnostic approaches to psychiatry and mental health, reinforcement learning and human decision-making, and computational models of social and affective processes. Speakers are hosted virtually and, when possible, in person at the CCP located at 55 West 125th Street, Suite 1302, New York, NY 10029.
 
 Zoom link will be available upon registration.
 
-For more information, please get in touch with Alessandra Yu at `alessandra.yu@icahn.mssm.edu`, Amber McLaughlin at `amber.mcLaughlin@icahn.mssm.edu`, Qixiu Fu at `qixiu.fu@icahn.mssm.edu`, or Karina Savillo at `karina.savillo@mssm.edu`.
+For more information, please get in touch with Saren Seeley at `saren.seeley@mssm.edu`, Jacqueline Beltran at `jacqueline.beltran@icahn.mssm.edu`, Jing Li at `jing.li@icahn.mssm.edu`, or Karina Savillo at `karina.savillo@mssm.edu`.
+
+**2024 Schedule** 
+| Date       | Invited Speaker     | Registration |
+| 2024/09/20 | Dr. Annie Haynos    | [Link]( https://forms.gle/7vieMoJtpsC3GRQw7) |
+
 
 **2023 Schedule** 
 
@@ -18,8 +23,7 @@ For more information, please get in touch with Alessandra Yu at `alessandra.yu@i
 | 2024/04/19 | Dr. Jonathan Roiser | [Link](https://forms.gle/1hfjJTsioABCXNTP8) |
 | 2024/05/21 | Dr. Quentin Huys  | [Link](https://forms.gle/zJmxtkchRir2GLkRA)  |
 | 2024/05/31 | Dr. Lucina Uddin  | [Link](https://forms.gle/zfVBa85fcBLwdP2n9)  |
-| 2024/06/28 | Dr. Annie Haynos | |
 {: .tablelines}
 
 <!-- a normal html comment, remove the outside long arrow to display poster -->
-![image](image/CCP_Flyer_LucinaUddin.jpg)
+![image](image/CCP_Flyer_AH_09-2024.png)
