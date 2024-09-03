@@ -7,6 +7,7 @@ Zoom link will be available upon registration.
 For more information, please get in touch with Saren Seeley at `saren.seeley@mssm.edu`, Jacqueline Beltran at `jacqueline.beltran@icahn.mssm.edu`, Jing Li at `jing.li@icahn.mssm.edu`, or Karina Savillo at `karina.savillo@mssm.edu`.
 
 **2024 Schedule** 
+
 | Date       | Invited Speaker     | Registration |
 | --- | --- | --- |
 | 2024/09/20 | Dr. Annie Haynos    | [Link]( https://forms.gle/7vieMoJtpsC3GRQw7) |
