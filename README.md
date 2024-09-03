@@ -8,7 +8,7 @@ For more information, please get in touch with Saren Seeley at `saren.seeley@mss
 
 **2024 Schedule** 
 
-| Date       | Invited Speaker     | Registration | Reading |
+| Date       | Invited Speaker     | Registration | Recommended Reading |
 | --- | --- | --- | --- |
 | 2024/09/20 | Dr. Annie Haynos    | [Link]( https://forms.gle/7vieMoJtpsC3GRQw7) | [Link](https://link.springer.com/article/10.1007/s11920-022-01320-9) |
 
