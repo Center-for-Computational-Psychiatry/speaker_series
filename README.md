@@ -29,4 +29,4 @@ For more information, please get in touch with Saren Seeley at `saren.seeley@mss
 
 
 <!-- a normal html comment, remove the outside long arrow to display poster -->
-![image](image/CCP_Flyer_AH_09-2024.png)
+![image](image/CCP_AH_09-2024_QR.png)
