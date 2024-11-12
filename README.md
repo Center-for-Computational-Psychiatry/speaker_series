@@ -10,6 +10,7 @@ For more information, please get in touch with Saren Seeley at `saren.seeley@mss
 
 | Date       | Invited Speaker     | Registration | Recommended Reading |
 | --- | --- | --- | --- |
+| 2024/11/22 | Dr. Alexandre Pouget | [Link](https://forms.gle/h3ZnaAG2uvfQyEij8) | [Link](https://www.biorxiv.org/content/10.1101/2023.07.04.547684v1) |
 | 2024/09/20 | Dr. Annie Haynos    | [Link]( https://forms.gle/7vieMoJtpsC3GRQw7) | [Link](https://link.springer.com/article/10.1007/s11920-022-01320-9) |
 
 
@@ -29,4 +30,4 @@ For more information, please get in touch with Saren Seeley at `saren.seeley@mss
 
 
 <!-- a normal html comment, remove the outside long arrow to display poster -->
-![image](image/CCP_AH_09-2024_QR.png)
+![image](image/Dr_Pouget_Flyer.png)
