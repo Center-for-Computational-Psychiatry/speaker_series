@@ -6,10 +6,11 @@ Zoom link will be available upon registration.
 
 For more information, please get in touch with Saren Seeley at `saren.seeley@mssm.edu`, Jacqueline Beltran at `jacqueline.beltran@icahn.mssm.edu`, Jing Li at `jing.li@icahn.mssm.edu`, or Karina Savillo at `karina.savillo@mssm.edu`.
 
-**2024 Schedule** 
+**2024/2025 Schedule** 
 
 | Date       | Invited Speaker     | Registration | Recommended Reading |
 | --- | --- | --- | --- |
+| 2025/01/24 | Dr. Cecilia Hinojosa | [Link](https://forms.gle/Nw1a6w74Un4jKfCj9)| [Link](https://www.sciencedirect.com/science/article/pii/S2451902224002830?via%3Dihub) |
 | 2024/12/13 | Dr. Alexandre Pouget | [Link](https://forms.gle/LjAJoRUXZP9tbQVE7) | [Link](https://www.biorxiv.org/content/10.1101/2023.07.04.547684v1) |
 | 2024/09/20 | Dr. Annie Haynos    | [Link]( https://forms.gle/7vieMoJtpsC3GRQw7) | [Link](https://link.springer.com/article/10.1007/s11920-022-01320-9) |
 
@@ -30,4 +31,4 @@ For more information, please get in touch with Saren Seeley at `saren.seeley@mss
 
 
 <!-- a normal html comment, remove the outside long arrow to display poster -->
-![image](image/Dr_Pouget_updated.png)
+![image](image/Dr_Hinojosa_Flyer.png)
