@@ -10,7 +10,7 @@ For more information, please get in touch with Saren Seeley at `saren.seeley@mss
 
 | Date       | Invited Speaker     | Registration | Recommended Reading |
 | --- | --- | --- | --- |
-| 2025/02/28 | Dr. Alan Simmons | TBD| TBD |
+| 2025/02/28 | Dr. Alan Simmons | [Link](https://forms.gle/1R7Gb2FHu7hqDo4e8)| [1](https://www.sciencedirect.com/science/article/pii/S0149763424002197) [2](https://journals.lww.com/pain/fulltext/2024/08000/identification_of_group_differences_in_predictive.10.aspx) |
 | 2025/01/24 | Dr. Cecilia Hinojosa | [Link](https://forms.gle/Nw1a6w74Un4jKfCj9)| [Link](https://www.sciencedirect.com/science/article/pii/S2451902224002830?via%3Dihub) |
 | 2024/12/13 | Dr. Alexandre Pouget | [Link](https://forms.gle/LjAJoRUXZP9tbQVE7) | [Link](https://www.biorxiv.org/content/10.1101/2023.07.04.547684v1) |
 | 2024/09/20 | Dr. Annie Haynos    | [Link]( https://forms.gle/7vieMoJtpsC3GRQw7) | [Link](https://link.springer.com/article/10.1007/s11920-022-01320-9) |
