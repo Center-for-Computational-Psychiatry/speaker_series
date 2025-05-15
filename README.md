@@ -4,12 +4,16 @@ The Center for Computational Psychiatry (CCP), led by Dr. Xiaosi Gu, hosts a mon
 
 Zoom link will be available upon registration.
 
-For more information, please get in touch with Saren Seeley at `saren.seeley@mssm.edu`, Jacqueline Beltran at `jacqueline.beltran@icahn.mssm.edu`, Jing Li at `jing.li@icahn.mssm.edu`, or Karina Savillo at `karina.savillo@mssm.edu`.
+For more information, please get in touch with Saren Seeley at `saren.seeley@mssm.edu`, Jacqueline Beltrán at `jacqueline.beltran@icahn.mssm.edu`, Jing Li at `jing.li@icahn.mssm.edu`, or Karina Savillo at `karina.savillo@mssm.edu`.
 
 **2024/2025 Schedule** 
 
 | Date       | Invited Speaker     | Registration | Recommended Reading |
 | --- | --- | --- | --- |
+| 2025/05/28 | Dr. Ming Hsu | [Link](https://forms.gle/A5xp9f393eVbE8io8)| [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304723) [Link](https://www.pnas.org/doi/10.1073/pnas.2116944119) [Link](https://www.pnas.org/doi/10.1073/pnas.1719452115)
+| 2025/04/18 | Dr. Peter Dayan |
+| 2025/03/21 | Dr. Nicolas Schuck |
+| 2025/03/07 | Dr. Marcelo Mattar |
 | 2025/02/28 | Dr. Alan Simmons | [Link](https://forms.gle/1R7Gb2FHu7hqDo4e8)| [1](https://www.sciencedirect.com/science/article/pii/S0149763424002197) [2](https://journals.lww.com/pain/fulltext/2024/08000/identification_of_group_differences_in_predictive.10.aspx) |
 | 2025/01/24 | Dr. Cecilia Hinojosa | [Link](https://forms.gle/Nw1a6w74Un4jKfCj9)| [Link](https://www.sciencedirect.com/science/article/pii/S2451902224002830?via%3Dihub) |
 | 2024/12/13 | Dr. Alexandre Pouget | [Link](https://forms.gle/LjAJoRUXZP9tbQVE7) | [Link](https://www.biorxiv.org/content/10.1101/2023.07.04.547684v1) |
@@ -32,4 +36,4 @@ For more information, please get in touch with Saren Seeley at `saren.seeley@mss
 
 
 <!-- a normal html comment, remove the outside long arrow to display poster -->
-![image](image/CCP_Flyer_Simmons.png)
+![image](image/Dr_Hsu.png)
