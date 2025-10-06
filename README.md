@@ -1,10 +1,12 @@
-# Center for Computational Psychiatry Speaker Series 2024-2025
+# Center for Computational Psychiatry Speaker Series 2025-2026
 
-The Center for Computational Psychiatry (CCP), led by Dr. Xiaosi Gu, hosts a monthly afternoon seminar series in which leading researchers from around the world present their latest findings in the fields of computational psychiatry, computational modeling, and cognitive neuroscience research. Discussion topics include transdiagnostic approaches to psychiatry and mental health, reinforcement learning and human decision-making, and computational models of social and affective processes. Speakers are hosted virtually and, when possible, in person at the CCP located at 55 West 125th Street, Suite 1302, New York, NY 10029.
+The Center for Computational Psychiatry (CCP), led by Dr. Laura Berner, hosts a monthly afternoon seminar series in which leading researchers from around the world present their latest findings in the fields of computational psychiatry, computational modeling, and cognitive neuroscience research. Discussion topics include transdiagnostic approaches to psychiatry and mental health, reinforcement learning and human decision-making, and computational models of social and affective processes. Speakers are hosted virtually and, when possible, in person at the CCP located at 55 West 125th Street, Suite 1302, New York, NY 10029.
 
 Zoom link will be available upon registration.
 
-For more information, please get in touch with Saren Seeley at `saren.seeley@mssm.edu`, Jacqueline Beltrán at `jacqueline.beltran@icahn.mssm.edu`, Jing Li at `jing.li@icahn.mssm.edu`, or Karina Savillo at `karina.savillo@mssm.edu`.
+For more information, please get in touch with []
+
+**2025/2026 Schedule** 
 
 **2024/2025 Schedule** 
 
