@@ -49,7 +49,3 @@ For more information, please get in touch with Justice Simonetti, Cameron Le Rou
 | 2024/05/21 | Dr. Quentin Huys  | [Link](https://forms.gle/zJmxtkchRir2GLkRA)  |
 | 2024/05/31 | Dr. Lucina Uddin  | [Link](https://forms.gle/zfVBa85fcBLwdP2n9)  |
 
-
-<!-- a normal html comment, remove the outside long arrow to display poster -->
-<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/789c5bc2-fc1a-4b2b-8f56-5d8ce34db4c1" />
-
