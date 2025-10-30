@@ -15,7 +15,7 @@ For more information, please get in touch with Justice Simonetti, Cameron Le Rou
 
 | Date       | Invited Speaker     | Registration | Recommended Reading |
 | --- | --- | --- | --- |
-| 2025/11/03 | Dr. Herman Cappelen |
+| 2025/11/03 | Dr. Herman Cappelen | [Link](https://docs.google.com/forms/d/e/1FAIpQLSenL8fNuf-ytD5CQF8SmiybDgy5kva4_Wb0bDHjKpztRi4BPg/viewform?usp=sharing&ouid=114279085289570463718)
 | 2025/11/21 | Dr. Ryan Smith | [Link](https://docs.google.com/forms/d/e/1FAIpQLSfA-SAlxM8jP0D9V-tu_fMEK_SeFzhN7HrnG9lrBM8V3UInGA/viewform?usp=sharing&ouid=114279085289570463718)
 | 2025/12/05 | Dr. Simon Eickhoff | [Link](https://docs.google.com/forms/d/e/1FAIpQLSe5AIRQ1si4Ch7Tx165genIykCEMVzqfC8pA0yHs6aWD-5Hqg/viewform?usp=sharing&ouid=114279085289570463718) | [Link](https://www.sciencedirect.com/science/article/pii/S1053811920303463) [Link](https://www.sciencedirect.com/science/article/pii/S1053811923003968) [Link](https://pubmed.ncbi.nlm.nih.gov/39960115/)
 | 2026/01/16 | Dr. Aliona Tsypes | [Link](https://docs.google.com/forms/d/e/1FAIpQLSeecWkznMkVhzJlhRGI2RhSgZgk4SjhY1xlqwVa_md1GMT7RQ/viewform?usp=sharing&ouid=114279085289570463718)
