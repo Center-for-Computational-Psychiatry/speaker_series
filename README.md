@@ -22,7 +22,7 @@ For more information, please get in touch with Justice Simonetti, Cameron Le Rou
 | 2026/02/13 | Dr. Ghazaleh Darmani | [Link](https://docs.google.com/forms/d/e/1FAIpQLSdCwuTNcnkZh-Wk1IK9HL7O2z5dn2PSQRU1FCKJP2WbmMRbeg/viewform?usp=sharing&ouid=114279085289570463718)
 | 2026/03/13 | Dr. Sarah Fineberg | [Link](https://docs.google.com/forms/d/e/1FAIpQLSfetPKAwxMznynRz7dXLQn6-Xm0bJwVeBZYBlOebahvK2VqeQ/viewform?usp=sharing&ouid=114279085289570463718)
 | 2026/04/17 | Dr. Christina Wierenga | [Link](https://docs.google.com/forms/d/e/1FAIpQLSdBVTGTKEVvLgdyvxV0EAwU5mJay7ikIZvBsBwDkOW_e90Ksw/viewform?usp=sharing&ouid=114279085289570463718)
-| 2026/06/26 | Dr. Ingo Willuhn | 
+| 2026/06/26 | Dr. Ingo Willuhn | [Link](https://docs.google.com/forms/d/e/1FAIpQLSdY6FqnTHheWsIEJhMnqbBVHb4jjTN1jeTtMEOgOtR3zViU_A/viewform?usp=sharing&ouid=114279085289570463718)
 
 
 **2024/2025 Schedule** 
