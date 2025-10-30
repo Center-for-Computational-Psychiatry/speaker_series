@@ -6,6 +6,9 @@ Zoom link will be available upon registration.
 
 For more information, please get in touch with Justice Simonetti, Cameron Le Roux, or Olivia Lauri
 
+<!-- a normal html comment, remove the outside long arrow to display poster -->
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/789c5bc2-fc1a-4b2b-8f56-5d8ce34db4c1" />
+
 **2025/2026 Schedule** 
 | Date       | Invited Speaker     | Registration | Recommended Reading |
 | --- | --- | --- | --- |
@@ -48,4 +51,5 @@ For more information, please get in touch with Justice Simonetti, Cameron Le Rou
 
 
 <!-- a normal html comment, remove the outside long arrow to display poster -->
-![image](image/Dr_Hsu.png)
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/789c5bc2-fc1a-4b2b-8f56-5d8ce34db4c1" />
+
