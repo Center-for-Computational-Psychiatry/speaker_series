@@ -4,9 +4,19 @@ The Center for Computational Psychiatry (CCP), led by Dr. Laura Berner, hosts a 
 
 Zoom link will be available upon registration.
 
-For more information, please get in touch with []
+For more information, please get in touch with Justice Simonetti, Cameron Le Roux, or Olivia Lauri
 
 **2025/2026 Schedule** 
+| Date       | Invited Speaker     | Registration | Recommended Reading |
+| --- | --- | --- | --- |
+| 2025/11/03 | Dr. Herman Cappelen |
+| 2025/11/21 | Dr. Ryan Smith | [Link](https://docs.google.com/forms/d/e/1FAIpQLSfA-SAlxM8jP0D9V-tu_fMEK_SeFzhN7HrnG9lrBM8V3UInGA/viewform?usp=sharing&ouid=114279085289570463718)
+| 2025/12/05 | Dr. Simon Eickhoff | [Link](https://docs.google.com/forms/d/e/1FAIpQLSe5AIRQ1si4Ch7Tx165genIykCEMVzqfC8pA0yHs6aWD-5Hqg/viewform?usp=sharing&ouid=114279085289570463718) | [Link](https://www.sciencedirect.com/science/article/pii/S1053811920303463) [Link](https://www.sciencedirect.com/science/article/pii/S1053811923003968) [Link](https://pubmed.ncbi.nlm.nih.gov/39960115/)
+| 2026/01/16 | Dr. Aliona Tsypes | [Link](https://docs.google.com/forms/d/e/1FAIpQLSeecWkznMkVhzJlhRGI2RhSgZgk4SjhY1xlqwVa_md1GMT7RQ/viewform?usp=sharing&ouid=114279085289570463718)
+| 2026/02/13 | Dr. Ghazaleh Darmani | [Link](https://docs.google.com/forms/d/e/1FAIpQLSdCwuTNcnkZh-Wk1IK9HL7O2z5dn2PSQRU1FCKJP2WbmMRbeg/viewform?usp=sharing&ouid=114279085289570463718)
+| 2026/03/13 | Dr. Sarah Fineberg | [Link](https://docs.google.com/forms/d/e/1FAIpQLSfetPKAwxMznynRz7dXLQn6-Xm0bJwVeBZYBlOebahvK2VqeQ/viewform?usp=sharing&ouid=114279085289570463718)
+| 2026/04/17 | Dr. Christina Wierenga | [Link](https://docs.google.com/forms/d/e/1FAIpQLSdBVTGTKEVvLgdyvxV0EAwU5mJay7ikIZvBsBwDkOW_e90Ksw/viewform?usp=sharing&ouid=114279085289570463718)
+| 2026/06/26 | Dr. Ingo Willuhn | 
 
 **2024/2025 Schedule** 
 
