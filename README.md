@@ -6,10 +6,13 @@ Zoom link will be available upon registration.
 
 For more information, please get in touch with Justice Simonetti, Cameron Le Roux, or Olivia Lauri
 
+
 <!-- a normal html comment, remove the outside long arrow to display poster -->
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/789c5bc2-fc1a-4b2b-8f56-5d8ce34db4c1" />
 
+
 **2025/2026 Schedule** 
+
 | Date       | Invited Speaker     | Registration | Recommended Reading |
 | --- | --- | --- | --- |
 | 2025/11/03 | Dr. Herman Cappelen |
@@ -20,6 +23,7 @@ For more information, please get in touch with Justice Simonetti, Cameron Le Rou
 | 2026/03/13 | Dr. Sarah Fineberg | [Link](https://docs.google.com/forms/d/e/1FAIpQLSfetPKAwxMznynRz7dXLQn6-Xm0bJwVeBZYBlOebahvK2VqeQ/viewform?usp=sharing&ouid=114279085289570463718)
 | 2026/04/17 | Dr. Christina Wierenga | [Link](https://docs.google.com/forms/d/e/1FAIpQLSdBVTGTKEVvLgdyvxV0EAwU5mJay7ikIZvBsBwDkOW_e90Ksw/viewform?usp=sharing&ouid=114279085289570463718)
 | 2026/06/26 | Dr. Ingo Willuhn | 
+
 
 **2024/2025 Schedule** 
 
