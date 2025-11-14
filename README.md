@@ -9,6 +9,7 @@ For more information, please get in touch with Justice Simonetti, Cameron Le Rou
 November Speakers:
 
 <!-- a normal html comment, remove the outside long arrow to display poster -->
+img { max-width: 100%; height: auto; }
 <img
   alt="Herman Cappelen"
   src="https://github.com/user-attachments/assets/e5b624e1-92a8-4a82-a2ba-0fb607603188"
