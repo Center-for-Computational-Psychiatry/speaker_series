@@ -9,8 +9,9 @@ For more information, please get in touch with Justice Simonetti, Cameron Le Rou
 November Speakers:
 
 <!-- a normal html comment, remove the outside long arrow to display poster -->
-<img width="1440" height="809" alt="Herman Cappelen" src="https://github.com/user-attachments/assets/e5b624e1-92a8-4a82-a2ba-0fb607603188" />
-<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/789c5bc2-fc1a-4b2b-8f56-5d8ce34db4c1" />
+<img width="1440" alt="Herman Cappelen" src="https://github.com/user-attachments/assets/e5b624e1-92a8-4a82-a2ba-0fb607603188" loading="lazy" decoding="async" />
+<img width="1920" alt="1" src="https://github.com/user-attachments/assets/789c5bc2-fc1a-4b2b-8f56-5d8ce34db4c1" loading="lazy" decoding="async" />
+
 
 
 **2025/2026 Schedule** 
