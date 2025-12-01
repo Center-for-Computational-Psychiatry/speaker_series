@@ -6,11 +6,10 @@ Zoom link will be available upon registration.
 
 For more information, please get in touch with Justice Simonetti, Cameron Le Roux, or Olivia Lauri
 
-November Speakers:
+December Speakers:
 
 <!-- a normal html comment, remove the outside long arrow to display poster -->
-<img alt="Herman Cappelen" src="https://github.com/user-attachments/assets/e5b624e1-92a8-4a82-a2ba-0fb607603188" width="100%" />
-<img alt="1" src="https://github.com/user-attachments/assets/789c5bc2-fc1a-4b2b-8f56-5d8ce34db4c1" width="100%" />
+<img alt="Simon Eickhoff" src="image/CCP_Flyer_Eickhoff.jpg" width="100%" />
 
 
 **2025/2026 Schedule** 
