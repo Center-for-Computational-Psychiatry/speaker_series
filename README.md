@@ -6,7 +6,7 @@ Zoom link will be available upon registration.
 
 For more information, please get in touch with Justice Simonetti, Cameron Le Roux, or Olivia Lauri
 
-December Speakers:
+January Speakers:
 
 <!-- a normal html comment, remove the outside long arrow to display poster -->
 <img alt="Aliona Tsypes" src="image/Tsypes_Flyer.jpg" width="100%" />
