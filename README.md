@@ -9,7 +9,7 @@ For more information, please get in touch with Justice Simonetti, Cameron Le Rou
 December Speakers:
 
 <!-- a normal html comment, remove the outside long arrow to display poster -->
-<img alt="Simon Eickhoff" src="image/CCP_Flyer_Eickhoff.jpg" width="100%" />
+<img alt="Aliona Tsypes" src="image/Tsypes_Flyer.jpg" width="100%" />
 
 
 **2025/2026 Schedule** 
