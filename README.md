@@ -6,7 +6,7 @@ Zoom link will be available upon registration.
 
 For more information, please get in touch with Justice Simonetti, Cameron Le Roux, or Olivia Lauri
 
-January Speakers:
+March Speakers:
 
 <!-- a normal html comment, remove the outside long arrow to display poster -->
 <img alt="Fineberg" src="image/CCP_Flyer_Fineberg2.jpg" width="100%" />
