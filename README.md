@@ -8,9 +8,11 @@ For more information, please get in touch with Justice Simonetti, Cameron Le Rou
 
 March Speakers:
 
+Christina Wierenga
+
 <!-- a normal html comment, remove the outside long arrow to display poster -->
-<img alt="Fineberg" src="image/CCP_Flyer_Fineberg2.jpg" width="100%" />
-<img alt="Ghazaleh" src="image/CCP_Flyer_Ghazaleh.jpg" width="100%" />
+<img alt="Wierenga" src="image/Wierenga.png" width="100%" />
+
 
 
 **2025/2026 Schedule** 
