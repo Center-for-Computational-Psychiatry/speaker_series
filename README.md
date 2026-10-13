@@ -6,6 +6,12 @@ Zoom link will be available upon registration.
 
 For more information, please get in touch with Justice Simonetti or Olivia Lauri
 
+**Upcoming Speakers:**
+
+<img src="images/Dr. Wang 10.23.jpg" width="100%">
+<img src="images/Dr. Lai 11.13.jpg" width="100%">
+<img src="images/Dr. Fengler & Krishn Bera 12.4.jpg" width="100%">
+
 **2026/2027 Schedule** 
 
 | Date       | Invited Speaker     | Registration | Recommended Reading |
