@@ -8,9 +8,9 @@ For more information, please get in touch with Justice Simonetti or Olivia Lauri
 
 **Upcoming Speakers:**
 
-<img src="image/wang_10.23.png" width="100%">
-<img src="image/lai_11.13.png" width="100%">
-<img src="image/fengler_krishn_bera_12.4.png" width="100%">
+<img src="wang_10.23.png" width="100%">
+<img src="lai_11.13.png" width="100%">
+<img src="fenlger_krishn_bera_12.4.png" width="100%">
 
 **2026/2027 Schedule** 
 
