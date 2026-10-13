@@ -1,11 +1,18 @@
-# Center for Computational Psychiatry Speaker Series 2025-2026
+# Center for Computational Psychiatry Speaker Series 2026-2027
 
 The Center for Computational Psychiatry (CCP), led by Dr. Laura Berner, hosts a monthly afternoon seminar series in which leading researchers from around the world present their latest findings in the fields of computational psychiatry, computational modeling, and cognitive neuroscience research. Discussion topics include transdiagnostic approaches to psychiatry and mental health, reinforcement learning and human decision-making, and computational models of social and affective processes. Speakers are hosted virtually and, when possible, in person at the CCP located at 55 West 125th Street, Suite 1302, New York, NY 10029.
 
 Zoom link will be available upon registration.
 
-For more information, please get in touch with Justice Simonetti, Cameron Le Roux, or Olivia Lauri
+For more information, please get in touch with Justice Simonetti or Olivia Lauri
 
+**2026/2027 Schedule** 
+
+| Date       | Invited Speaker     | Registration | Recommended Reading |
+| --- | --- | --- | --- |
+| 10/23/26 | Dr. Yuanjia Wang | [Link](https://docs.google.com/forms/d/e/1FAIpQLSdt8imhUfEXphF6Vi8D6VlRaP7w8klBL2c2yk2c9CxhDsqE3w/viewform?usp=header) | [Link](https://arxiv.org/pdf/2605.24707) <br> [Link](https://academic.oup.com/biometrics/article-abstract/82/2/ujag083/8699868) |
+| 11/13/26 | Dr. Lucy Lai | [Link](https://forms.gle/9KYjMztJmdF6dK7CA) | [Link](https://urldefense.proofpoint.com/v2/url?u=https-3A__lucylai.com_pubs_laigershman24.pdf&d=DwMFaQ&c=shNJtf5dKgNcPZ6Yh64b-ALLUrcfR-4CCQkZVKC8w3o&r=IBoQkiAH-MFzF73w3GPK7sbQU9fxQsXUPGTcCDxb8-s&m=TcpBRem8Zau-06yB5fURoAQ_iyK1lbnSFOF7F00g3UJJeUhAXM19J5GWvK7MYsTX&s=YAVvUxk5W9eT0rg1FogQAn2UPJ7WanughLwuD7QEYS4&e=) <br> [Link](https://urldefense.proofpoint.com/v2/url?u=https-3A__bilalbari.com_publication_resource-2Drational-2Dpsychopathology_resource-2Drational-2Dpsychopathology.pdf&d=DwMFaQ&c=shNJtf5dKgNcPZ6Yh64b-ALLUrcfR-4CCQkZVKC8w3o&r=IBoQkiAH-MFzF73w3GPK7sbQU9fxQsXUPGTcCDxb8-s&m=TcpBRem8Zau-06yB5fURoAQ_iyK1lbnSFOF7F00g3UJJeUhAXM19J5GWvK7MYsTX&s=yzGo-jC9aFvPUKpu_IxwbdTJxK0HZMGxS4tf0MoAawc&e=) |
+| 12/4/26 | Dr. Alex Fengler and Krishn Bera | [Link](https://forms.gle/bkRTVLEUE75FfUgX6) | [Link](https://urldefense.proofpoint.com/v2/url?u=https-3A__elifesciences.org_articles_65074&d=DwMFaQ&c=shNJtf5dKgNcPZ6Yh64b-ALLUrcfR-4CCQkZVKC8w3o&r=IBoQkiAH-MFzF73w3GPK7sbQU9fxQsXUPGTcCDxb8-s&m=WLqmd0SKwtAn7xEqjDPSAZhuXmQxg3J9d3AX3biIHrGThLi1zKfKinpH1ST2xEBf&s=NZVP-4JhIRHmAH--PwhOVCL59CMWHc0S3GedbxA8TOk&e=) <br> [Link](https://urldefense.proofpoint.com/v2/url?u=https-3A__elifesciences.org_reviewed-2Dpreprints_112168&d=DwMFaQ&c=shNJtf5dKgNcPZ6Yh64b-ALLUrcfR-4CCQkZVKC8w3o&r=IBoQkiAH-MFzF73w3GPK7sbQU9fxQsXUPGTcCDxb8-s&m=WLqmd0SKwtAn7xEqjDPSAZhuXmQxg3J9d3AX3biIHrGThLi1zKfKinpH1ST2xEBf&s=d2FcJfpeq-do_qBKEW7CMeHGaAWCwhE6Gmjcl0Lh6Mk&e=) <br> [Link](https://urldefense.proofpoint.com/v2/url?u=https-3A__journals.plos.org_ploscompbiol_article-3Fid-3D10.1371_journal.pcbi.1014796&d=DwMFaQ&c=shNJtf5dKgNcPZ6Yh64b-ALLUrcfR-4CCQkZVKC8w3o&r=IBoQkiAH-MFzF73w3GPK7sbQU9fxQsXUPGTcCDxb8-s&m=WLqmd0SKwtAn7xEqjDPSAZhuXmQxg3J9d3AX3biIHrGThLi1zKfKinpH1ST2xEBf&s=n8mSazO6YfICD42b_A_iGCy3cZt-cVWlIX7GHrfIkMs&e=)
 
 **2025/2026 Schedule** 
 
